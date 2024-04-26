@@ -16,9 +16,9 @@ const homeStyles = StyleSheet.create({
     paddingVertical: 20
   },
   logiBnt: {
-    fontSize: 30,
-    fontWeight: "bold",
-    width: 220,
+    fontSize: 20,
+    fontWeight: '600',
+    width: 200,
     borderRadius: 20
   }
 });
